@@ -9,6 +9,7 @@ To fine-tune our model, we selected three different datasets, each contributing 
 - Dataset 1: codefuse-ai/CodeExercise-Python-27k
 - Dataset 2: ibl-best-practices-instructor-dataset
 - Dataset 3: KrisPi/PythonTutor-Evol-1k-DPO-GPT4-vs-35
+
 The datasets were then combined and preprocessed for efficient finetuning.
 
 ## Base Model Selection
@@ -33,7 +34,7 @@ Progression of training loss over training steps:
 
 Average results obtained from human-subject evaluation over 5 subjects:
 
-<img src="https://github.com/malakslim/EECE798K-Project/blob/main/test_traj2_all_models.png" style="width: 50%;">
+<img src="https://github.com/malakslim/MSBA-316-NLP-Project-CoCoT/blob/main/human-subject.png" style="width: 50%;">
 
 Example prompt comparing responses from the original LLaMa-3 8b model and CoCoT:
 
