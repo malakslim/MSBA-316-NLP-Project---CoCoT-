@@ -36,7 +36,9 @@ Average results obtained from human-subject evaluation over 5 subjects:
 
 <img src="https://github.com/malakslim/MSBA-316-NLP-Project-CoCoT/blob/main/human-subject.png" style="width: 50%;">
 
-Example prompt comparing responses from the original LLaMa-3 8b model and CoCoT:
+Screenshot showing the created user interface for CoCoT:
+
+<img src="https://github.com/malakslim/MSBA-316-NLP-Project-CoCoT/blob/main/Q1.PNG" style="width: 50%;">
 
 ### For any further details, please refer to the [PDF report](https://github.com/malakslim/EECE798K-Project/blob/main/EECE_798K_Project_Report.pdf).
 
