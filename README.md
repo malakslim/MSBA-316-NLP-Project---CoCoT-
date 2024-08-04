@@ -29,7 +29,7 @@ Please note that you must specify the correct path to the saved fine-tuned model
 ## Results
 Progression of training loss over training steps:
 
-<img src="https://github.com/malakslim/EECE798K-Project/blob/main/test_traj1_all_models.png" style="width: 50%;">
+<img src="https://github.com/malakslim/MSBA-316-NLP-Project-CoCoT/blob/main/training_loss.PNG" style="width: 50%;">
 
 
 Average results obtained from human-subject evaluation over 5 subjects:
