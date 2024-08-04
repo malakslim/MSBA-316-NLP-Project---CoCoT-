@@ -22,7 +22,7 @@ The repository contains four notebooks, which were run on Google Colab.
 - `Logical_Inference_LLMAgent.ipynb` implemnts an LLM Agent using LangChain that integrates three different inference tools into a language model.
 - `Rule_based_System_Trial(Pyke).ipynb` implements a rule-based system and an attempt to integrate it with a language model, however this integration it is not functionional.
   
-Each notebook provides comprehensive details on all performed steps.
+Each notebook provides comprehensive details on all performed steps and the installed libraries.
 
 Please note that you must specify the correct path to the saved fine-tuned model to ensure the proper execution of each notebook.
 
